@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+venv/
+*.db
+backend/uploads/*
+!backend/uploads/.keep
+chroma_db/
+*.log
